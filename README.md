@@ -1,2 +1,13 @@
 # 김진우 포트폴리오
 ![슬라이드1](https://github.com/heyteddy/Portfolio/assets/73620378/50e60234-fefa-4144-bb5a-81e1b4873330)
+![슬라이드2](https://github.com/heyteddy/Portfolio/assets/73620378/48174d92-0a7f-46b7-bdbc-e96683a2b3c5)
+![슬라이드3](https://github.com/heyteddy/Portfolio/assets/73620378/d48d4b13-9f58-4584-b4d2-c5b4b01aad08)
+![슬라이드4](https://github.com/heyteddy/Portfolio/assets/73620378/13d53a57-d4d9-4054-8295-2990aa526512)
+![슬라이드5](https://github.com/heyteddy/Portfolio/assets/73620378/8a096772-1e44-47e9-b4a4-c621a5bf91de)
+![슬라이드6](https://github.com/heyteddy/Portfolio/assets/73620378/80d88193-cbb0-4daa-8740-3853a9540424)
+![슬라이드7](https://github.com/heyteddy/Portfolio/assets/73620378/2cb5ab22-1e06-4714-93aa-c9e9725af6af)
+![슬라이드8](https://github.com/heyteddy/Portfolio/assets/73620378/1646a175-26d8-440a-8c89-5d3c9338a2b2)
+![슬라이드9](https://github.com/heyteddy/Portfolio/assets/73620378/a53cc43e-79d4-40ab-886b-01277679d722)
+![슬라이드10](https://github.com/heyteddy/Portfolio/assets/73620378/0d91539c-1a02-43a0-91c0-54885aa78533)
+![슬라이드11](https://github.com/heyteddy/Portfolio/assets/73620378/697a5372-05f8-4158-97ca-0b17a0cc7477)
+![슬라이드12](https://github.com/heyteddy/Portfolio/assets/73620378/cd282fd5-6f5f-423f-8e0b-b389811209b2)
